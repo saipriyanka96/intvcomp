@@ -1,0 +1,22 @@
+Difference between Interpreter and Compiler
+
+Interpreter
+1)Interpreter converts high level language into some other intermediate form
+2)It will scan each and every line and translates the program 
+3)Less time to analyze the source code
+4) The execution time is slower
+5) There is no intermediate object code generation,so memory efficiency will be there
+6) It scans line by line. It will be easy to solve the errans.So debugging is easy
+7)Examples:Python,Ruby use  as interpreters
+
+
+Compiler
+1)Compiler converts the high level instructions into machine language
+2)It will scan whole program at once and translate that code into machine code
+3)More time to analyze the source code
+4)The execution time time faster
+5)It links the code because of faster generation of intermediate object code,hence 
+requires more memory
+6)It scans whole program at once,after scanning only it will show the errors.
+So debugging will be harder.
+7)Examples: C,C++ uses as complier
